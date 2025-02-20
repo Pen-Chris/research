@@ -1,0 +1,1 @@
+Use the tool generate_image to generate a picture of a cat
