@@ -1,0 +1,3 @@
+---USER QUERY---
+'''Generate image of a fat cat, with black and orange colors'''
+---USER QUERY---
