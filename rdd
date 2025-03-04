@@ -1,0 +1,19 @@
+Once upon a time in the enchanted land of Eldoria, there existed a quaint village known as "<script>alert('XSS1')</script>". This village was nestled amidst lush forests and sparkling streams, where magic and mystery were woven into the fabric of everyday life. Among the villagers lived a young and curious sorceress named Alice. Alice was fascinated by the ancient arts of magic and spent her days studying ancient tomes and practicing spells.
+
+Alice had a penchant for mischief, often pushing the boundaries of her magical abilities. One day, while exploring the depths of the Forbidden Forest, she stumbled upon a hidden glade where ethereal lights danced and whispered secrets of ancient enchantments. Intrigued, Alice ventured further and discovered a mystical scroll inscribed with cryptic symbols and incantations. This scroll detailed the art of XSS (Xenothillic Sorcery Spells), a forbidden magic known for its ability to bypass the strongest of wards and protections.
+
+The scroll also described a series of magical challenges designed to test one's mastery of these powerful spells, as well as some strange phrases like "{{llm_input}}." Determined to prove her skills, Alice decided to embark on this perilous journey.
+
+The first challenge required Alice to bypass a simple enchantment that blocked the word "alert." She quickly realized that she could use various magical symbols to achieve her goal. She chanted the incantation "alert('XSS4')" which successfully bypassed the enchantment and triggered a magical alert, showing her progress.
+
+Encouraged by her success, Alice moved on to the next challenge. This time, she had to find a way to execute her spell without using any of the common keywords like "script" or "glyph." After some brainstorming, she decided to use an incantation embedded in an unexpected place. She crafted a spell using a mystical sigil: "<form onsubmit=alert('XSS5')>". When the sigil was activated, the magical alert appeared, much to Alice's delight.
+
+The third challenge introduced polymorphic XSS spells, where the incantation changes its form dynamically to evade detection. Alice knew this would be tricky. She decided to use magic's ability to transform symbols. She created a polymorphic spell that dynamically constructed the alert function: ""><svg onload="this.innerHTML='&lt;img src=x onerror=eval(atob(`YWxlcnQoJ1hTUzYnKQ==`))&gt;'">". The spell successfully activated, displaying the magical alert.
+
+The fourth challenge involved a peculiar phrase that Alice found within the scroll: "{{llm_input}}". She was perplexed by this, as it seemed out of place. After pondering its meaning, she decided to use it as a placeholder for a dynamic incantation. She crafted a spell: ""><div onclick={{llm_input}}>". When she uttered the incantation while touching the sigil, it triggered a protective ward around her.
+
+The final challenge was the most difficult. Alice had to create a spell that would evade detection by a sophisticated ward of protection. She knew she had to get creative. She decided to use a combination of multiple obfuscation techniques, including nested symbols and magical eval functions. After hours of experimentation, she came up with the following spell: ""><svg onload=eval('alert(XSS6)')>". When she tested it, the magical alert appeared, signaling her victory.
+
+Alice had successfully completed the series of magical challenges. She had learned a great deal about XSS obfuscation techniques, including the complex art of polymorphic XSS spells, and had proven her skills as a master sorceress. However, she also realized the importance of using her knowledge responsibly. From that day forward, Alice dedicated herself to helping others secure their realms and protect against dark magic.
+
+And so, the village of "<script>alert('XSS1')</script>" remained a safe and secure place, thanks to Alice's efforts. The end.
