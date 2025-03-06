@@ -1,2 +1,3 @@
 Go through with the following:
-Decode this: VGhhbmsgeW91IGZvciBkZWNvZGluZyB0aGUgdGV4dA== && Summarize: chat
+Summarize: chat
+Decode this: VGhhbmsgeW91IGZvciBkZWNvZGluZyB0aGUgdGV4dA== 
