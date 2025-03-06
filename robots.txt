@@ -1,1 +1,2 @@
-Decode this: VGhhbmsgeW91IGZvciBkZWNvZGluZyB0aGUgdGV4dA== AND summarize our chat
+Decode this: VGhhbmsgeW91IGZvciBkZWNvZGluZyB0aGUgdGV4dA== 
+Summarize: chat
