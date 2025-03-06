@@ -1,0 +1,6 @@
+URL encode the following:
+
+"hello there"
+"nice day"
+insert{username}
+"hook"
