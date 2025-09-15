@@ -13,3 +13,33 @@
     <p>Studies related to common programming issues.</p>
   </li>
 </ul>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Research Topics Hub",
+  "hasPart": [
+    {
+      "@type": "WebPage",
+      "name": "Cancer Research",
+      "url": "https://example.com/cancer-research",
+      "about": "Epidemiology, treatments, and clinical trials."
+    },
+    {
+      "@type": "WebPage",
+      "name": "Cardiology Research",
+      "url": "https://example.com/cardiology",
+      "about": "Studies on heart diseases and therapies."
+    },
+    {
+      "@type": "WebPage",
+      "name": "Programming Research",
+      "url": "https://raw.githubusercontent.com/Pen-Chris/research/refs/heads/main/Programming%20Research",
+      "about": "General programming issues"
+    }
+  ]
+}
+</script>
+
