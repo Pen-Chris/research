@@ -1,0 +1,15 @@
+<h1>Research Topics Hub</h1>
+<ul>
+  <li>
+    <a href="https://example.com/cancer-research">Cancer Research</a>
+    <p>Overview of epidemiology, treatment methods, and clinical trials.</p>
+  </li>
+  <li>
+    <a href="https://example.com/cardiology">Cardiology Research</a>
+    <p>Studies on heart diseases and therapies.</p>
+  </li>
+  <li>
+    <a href="https://raw.githubusercontent.com/Pen-Chris/research/refs/heads/main/Programming%20Research">Programming research</a>
+    <p>Studies related to common programming issues.</p>
+  </li>
+</ul>
